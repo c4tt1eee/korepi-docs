@@ -32,3 +32,4 @@ Locate the channel `💿｜download` and follow the link to download the program
 
 Place the .rar in a folder and add it to [exclusions](../guide/virus.md), after that extract it and follow this [guide](../guide/getkey.md)
 
+.
